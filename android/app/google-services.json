@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "251321797557",
+    "project_id": "fortune-qookies",
+    "storage_bucket": "fortune-qookies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251321797557:android:542cad9789835d952067fc",
+        "android_client_info": {
+          "package_name": "com.itsallwidgets.fortune_qookies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251321797557-tbr7jh8gkdm22gocsvs1em297abib4cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOObRbgxQur7pTctDvG9rr-Iuf2YPZ2ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251321797557-tbr7jh8gkdm22gocsvs1em297abib4cv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "251321797557-gmjc2f41rg5j0p224jt0ga90urvaj5uf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itsallwidgets.fortuneqookies"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
